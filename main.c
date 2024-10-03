@@ -1,7 +1,7 @@
 #include <math.h>
 #include <stdio.h>
-#define A -10.0
-#define B 10.0
+#define A -5.0
+#define B 5.0
 #define H 0.1
 
 /* Функция */
