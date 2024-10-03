@@ -7,7 +7,7 @@
 /* Функция */
 double F(double x)
 {
- return x * exp(x) + 2 * sin(x) + sqrt(fabs(pow(x, 3) - pow(x, 2)));
+ return 40 * x * exp(x) + 2 * sin(x) + sqrt(fabs(pow(x, 3) - pow(x, 2)));
 }
 
 int main( )
